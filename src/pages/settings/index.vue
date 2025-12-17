@@ -10,11 +10,11 @@ const userInfo = computed(() => userStore.userInfo)
 
 function Logout() {
   showConfirmDialog({
-    title: t('settings.comfirmTitle'),
+    title: t('settings.confirmTitle'),
   })
     .then(() => {
       userStore.logout()
-      router.push({ name: 'home' })
+      router.push({ name: 'Home' })
     })
     .catch(() => {})
 }
@@ -26,7 +26,7 @@ function Logout() {
       <van-cell v-if="userInfo.uid" :title="$t('settings.logout')" clickable class="van-text-color" @click="Logout" />
     </VanCellGroup>
 
-    <div class="text-gray mt-10">
+    <div class="text-gray mt-2">
       {{ $t("settings.currentVersion") }}: v{{ version }}
     </div>
   </div>
@@ -40,10 +40,6 @@ function Logout() {
 
 <route lang="json5">
 {
-  name: 'settings',
-  meta: {
-    title: '我的设置',
-    i18n: 'menus.settings'
-  },
+  name: 'Settings'
 }
 </route>

@@ -176,7 +176,7 @@ pnpm build
 
 ## 捐赠 ☕
 
-[请我喝一杯咖啡](https://github.com/CharleeWa/sponsor)
+[请我喝一杯咖啡](https://github.com/cwandev/sponsor)
 
 <h2 align="center">💝 我们的赞助者 💝</h2>
 
@@ -194,6 +194,8 @@ pnpm build
 <a href="https://github.com/xiaminxi"><img src="https://avatars.githubusercontent.com/u/37994820?v=4" width="60px" alt="xiaminxi" /></a>
 <a href="https://github.com/wangpeng00544"><img src="https://avatars.githubusercontent.com/u/54630102?v=4" width="60px" alt="wangpeng00544" /></a>
 <a href="https://github.com/ljgx"><img src="https://avatars.githubusercontent.com/u/59424192?v=4" width="60px" alt="ljgx" /></a>
+<a href="https://github.com/3026546679"><img src="https://avatars.githubusercontent.com/u/36257162?v=4" width="60px" alt="3026546679" /></a>
+<a href="https://github.com/shuilong001"><img src="https://avatars.githubusercontent.com/u/219820297?v=4" width="60px" alt="shuilong001" /></a>
 </p>
 
 <h2 align="center">
@@ -205,7 +207,7 @@ pnpm build
 </p>
 
 <p align="center">
-<a href="https://github.com/CharleeWa"><img src="https://avatars.githubusercontent.com/u/22477554?v=4" width="60px" alt="CharleeWa" /></a>
+<a href="https://github.com/cwandev"><img src="https://avatars.githubusercontent.com/u/22477554?v=4" width="60px" alt="cwandev" /></a>
 <a href="https://github.com/ljt990218"><img src="https://avatars.githubusercontent.com/u/50509815?v=4" width="60px" alt="ljt990218" /></a>
 <a href="https://github.com/wswmsword"><img src="https://avatars.githubusercontent.com/u/26893092?v=4" width="60px" alt="wswmsword" /></a>
 <a href="https://github.com/weiq"><img src="https://avatars.githubusercontent.com/u/1697158?v=4" width="60px" alt="weiq" /></a>

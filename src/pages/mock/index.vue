@@ -23,7 +23,7 @@ function pull() {
     <VanEmpty v-else :description="$t('mock.noData')" />
   </div>
 
-  <van-space class="m-10" direction="vertical" fill>
+  <van-space class="m-2" direction="vertical" fill>
     <VanButton type="primary" round block @click="pull">
       {{ $t('mock.pull') }}
     </VanButton>
@@ -35,11 +35,7 @@ function pull() {
 
 <route lang="json5">
 {
-  name: 'mock',
-  meta: {
-    title: '💿 Mock 指南',
-    i18n: 'menus.mockGuide'
-  },
+  name: 'Mock',
 }
 </route>
 

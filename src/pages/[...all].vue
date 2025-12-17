@@ -14,7 +14,7 @@ function onBack() {
     <van-icon name="warn-o" size="3em" />
     <div> Not found </div>
 
-    <div class="mt-10">
+    <div class="mt-2">
       <button van-haptics-feedback class="btn" @click="onBack">
         Back
       </button>
@@ -24,10 +24,6 @@ function onBack() {
 
 <route lang="json5">
 {
-  name: '404',
-  meta: {
-    title: '404',
-    i18n: 'menus.404Demo'
-  },
+  name: '404'
 }
 </route>
